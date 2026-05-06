@@ -128,4 +128,4 @@ This project demonstrates how **data cleaning, exploratory analysis, visualizati
 ---
 
 ✍️ **Author:** 
-Bnai Thapliyal 
+Bani Thapliyal 
